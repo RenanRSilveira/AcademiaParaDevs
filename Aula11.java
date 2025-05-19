@@ -1,5 +1,3 @@
-package academiaparadevs;
-
 import java.util.Scanner;
 
 public class Aula11 {

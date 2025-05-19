@@ -1,4 +1,3 @@
-package academiaparadevs;
 
 import java.util.Scanner;
 

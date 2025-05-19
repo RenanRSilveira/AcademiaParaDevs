@@ -1,5 +1,3 @@
-package academiaparadevs;
-
 public class Aula12a {
     public static void main(String[] args) {
         int count;

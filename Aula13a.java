@@ -1,5 +1,3 @@
-package academiaparadevs;
-
 public class Aula13a {
     public static void main(String[] args) {
 

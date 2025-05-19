@@ -1,5 +1,3 @@
-package academiaparadevs;
-
 public class Aula9 {
     public static void main(String[] args) {
         int n = 19;

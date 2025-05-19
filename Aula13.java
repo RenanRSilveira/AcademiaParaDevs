@@ -1,5 +1,3 @@
-package academiaparadevs;
-
 import java.util.Arrays;
 
 public class Aula13 {
