@@ -1,5 +1,5 @@
 
-public class Aula5 {
+public class Aula05 {
     public static void main(String[] args) {
         int n = 5;
 
